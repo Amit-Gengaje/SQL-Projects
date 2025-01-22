@@ -1,3 +1,7 @@
+Employee Data Analysis Project.
+
+I Used MySQL Workbench to generate reports on employee performance and project details, extracting actionable insights from a complex employee database tailored to specific business requirements.
+
 1.	Input SQL Queries: 
 
 CREATE DATABASE IF NOT EXISTS employee;
